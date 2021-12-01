@@ -1,0 +1,11 @@
+,Make,Colour,Odometer (KM),Doors,Price,Seats,Fuel_Economy/Litre,Total_Fuel_Used(L),Passed road safety,Insurance Due
+0,Toyota,White,150043,4,"$4,000.00",5.0,12.0,18005.16,True,Yes
+1,Honda,Red,87899,4,"$5,000.00",5.0,12.0,10547.880000000001,True,Yes
+2,Toyota,Blue,32549,3,"$7,000.00",5.0,14.0,4556.860000000001,True,Yes
+3,BMW,Black,11179,5,"$22,000.00",5.0,45.0,5030.55,True,yes
+4,Nissan,White,213095,4,"$3,500.00",5.0,12.0,25571.399999999998,True,yes
+5,Toyota,Green,99213,4,"$4,500.00",5.0,12.0,11905.56,True,yes
+6,Honda,Blue,45698,4,"$7,500.00",5.0,12.0,5483.76,True,yes
+7,Honda,Blue,54738,4,"$7,000.00",5.0,12.0,6568.5599999999995,True,yes
+8,Toyota,White,60000,4,"$6,250.00",5.0,12.0,7200.0,True,yes
+9,Nissan,White,31600,4,"$9,700.00",5.0,12.0,3792.0,True,yes
